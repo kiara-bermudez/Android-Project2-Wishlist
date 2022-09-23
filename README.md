@@ -2,16 +2,16 @@
 
 Submitted by: Kiara Bermudez
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+Wishlist is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
+- [X] **User can add an item to their wishlist**
+- [X] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
@@ -27,22 +27,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<img src='Wishlist-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I faced challenges with the adapter implementation. I had to understand what each of the functions
+in the adapter class meant and how to implement them. I also had to spend time figuring out
+how to make the list dynamic by being able to add new items to the list.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Kiara Bermudez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
